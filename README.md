@@ -828,7 +828,13 @@ Prints:
 · Terminal recorder state
 
 ---
+<div align="center">
 
+<img src="https://media.giphy.com/media/6Aw9RGkNOmla5PTC0z/giphy.gif"
+     width="100%"
+     alt="Anime chess checkmate animation">
+
+</div>
 License & Ethics
 
 AUTHORIZED TESTING AND EDUCATIONAL RESEARCH ONLY.
