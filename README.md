@@ -716,6 +716,13 @@ CVE-2019-0708 BlueKeep 9.8 RCE
 CVE-2023-3824 PHP phar 9.8 buffer overflow
 
 ---
+<div align="center">
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif"
+     width="100%"
+     alt="Hacking computer animation">
+
+</div>
 
 Database Schema
 
