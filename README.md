@@ -449,6 +449,13 @@ apexora cl0 example.com
 apexora http2 example.com
 apexora ws example.com
 ```
+<div align="center">
+
+<img src="https://media.giphy.com/media/pVWuLuV1JESZJdebkI/giphy.gif"
+     width="100%"
+     alt="Anime manga animation">
+
+</div>
 
 h2c — H2C cleartext upgrade probe.
 
