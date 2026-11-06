@@ -2,7 +2,14 @@
   <img src="assets/1.png" alt="Banner 1" width="100%">
 </p>
 
-# APEXORA - Multi-Layer Firewall Analysis · Offensive & Defensive Security Intelligence · Attack-Surface Discovery & Advanced Penetration Testing Framework
+
+<h1 align="center">⚡ APEXORA</h1>
+
+<h3 align="center">
+  Multi-Layer Firewall Analysis · Offensive & Defensive Security Intelligence
+  <br>
+  Attack-Surface Discovery & Advanced Penetration Testing Framework
+</h3>
 
 <!-- APEXORA | PROFESSIONAL CYBERSECURITY BADGES -->
 
