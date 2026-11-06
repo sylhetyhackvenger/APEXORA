@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
 # APEXORA - Multi-Layer Firewall Analysis · Offensive & Defensive Security Intelligence · Attack-Surface Discovery & Advanced Penetration Testing Framework
 
@@ -75,6 +78,10 @@ pass: error808
 Requirements: Python 3.8+. SQLite included with Python. No pip install needed.
 
 ---
+
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 Authentication & Scope
 
