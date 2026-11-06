@@ -4,6 +4,84 @@
 
 # APEXORA - Multi-Layer Firewall Analysis · Offensive & Defensive Security Intelligence · Attack-Surface Discovery & Advanced Penetration Testing Framework
 
+<!-- APEXORA | PROFESSIONAL CYBERSECURITY BADGES -->
+
+<p align="center">
+
+  <!-- PROJECT IDENTITY -->
+  <img src="https://img.shields.io/badge/APEXORA-ADVANCED%20SECURITY-00E5FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/OFFENSIVE-SECURITY-FF1744?style=for-the-badge&logo=kalilinux&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/PENETRATION-TESTING-9C27B0?style=for-the-badge&logo=owasp&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+  <!-- TECHNOLOGY -->
+  <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Dependencies-Zero-00C853?style=flat-square&logo=dependabot&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/Platform-Termux-000000?style=flat-square&logo=android&logoColor=3DDC84" />
+
+</p>
+
+<p align="center">
+
+  <!-- SECURITY CAPABILITIES -->
+  <img src="https://img.shields.io/badge/WAF_Signatures-160%2B-FF5722?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Attack_Modules-60%2B-D50000?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/CVE_Chains-17-7B1FA2?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+  <!-- ADVANCED FEATURES -->
+  <img src="https://img.shields.io/badge/WAF-FINGERPRINTING-00BCD4?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/SSRF-DETECTION-FF9800?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/OOB-DETECTION-673AB7?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/CVE-RESEARCH-E91E63?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/MULTI--TARGET-SCANNING-2196F3?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/TOR-INTEGRATION-7E57C2?style=flat-square" />
+
+</p>
+
+<p align="center">
+
+  <!-- REPOSITORY -->
+  <img src="https://img.shields.io/github/stars/sylhetyhackvenger/APEXORA?style=for-the-badge&logo=github&color=yellow" />
+
+  <img src="https://img.shields.io/github/forks/sylhetyhackvenger/APEXORA?style=for-the-badge&logo=github&color=blue" />
+
+  <img src="https://img.shields.io/github/issues/sylhetyhackvenger/APEXORA?style=for-the-badge&logo=github&color=red" />
+
+  <img src="https://img.shields.io/github/license/sylhetyhackvenger/APEXORA?style=for-the-badge&color=brightgreen" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=for-the-badge&logo=statuspage&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/RESEARCH-AUTHORIZED%20TESTING-00E5FF?style=for-the-badge&logo=hackaday&logoColor=white" />
+
+</p>
+
+
 ---
 
 ## Overview
